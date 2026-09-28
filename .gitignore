@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+campus.db
+frontend/node_modules/
+frontend/dist/
